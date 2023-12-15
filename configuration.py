@@ -37,7 +37,7 @@ num_frames = 25 #to take before and after behavioral event
 
 
 # Define the bandpass filter parameters
-bandpass = {"lowcut": 0.1, "highcut":7, "order": 4} #add None if you dont use 
+bandpass = None #add None if you dont use 
 # Lower cutoff frequency in Hz
 # Upper cutoff frequency in Hz
 # Filter order
